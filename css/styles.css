@@ -1,0 +1,43 @@
+/* MOBILE AND GLOBAL STYLES */
+
+/* applies to screens smaller than 500px (first breakpoint) */
+/* and above unless overwritten below */
+
+body 
+{
+  background: #fcc;
+} 
+
+/* TABLET STYLES */
+
+@media screen and (min-width: 500px) 
+{
+
+  
+    
+  body 
+  {
+  background: #cfc;
+  } 
+
+  
+  
+}
+  
+  
+  
+/* DESKTOP STYLES */
+  
+@media screen and (min-width: 1000px) 
+{
+  
+  
+  
+  body 
+  {
+    background: #ccf;
+  } 
+
+  
+
+}
